@@ -20,3 +20,7 @@ This project is a simple paint application created using Python and the Tkinter 
 
 # Video Demonstration
 To see the application in action, watch the uploaded video demonstration that showcases each feature of the paint project. In the video, you will see practical examples of how to use the brush tool, line tool, rectangle tool, oval tool, circle tool, and curve tool. This will give you a clear idea of what the final output looks like and how to utilize each tool effectively.
+
+# Author
+- [Kainat Umar]
+  + Developer of the Console Game Application
