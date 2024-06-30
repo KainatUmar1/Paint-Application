@@ -18,9 +18,13 @@ This project is a simple paint application created using Python and the Tkinter 
 5. Circle Tool: Click on the circle icon, then click and drag to draw a circle.
 6. Curve Tool: Click on the curve icon, then click and drag to draw a curve.
 
+# Installation
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the application.
+
 # Video Demonstration
 To see the application in action, watch the uploaded video demonstration that showcases each feature of the paint project. In the video, you will see practical examples of how to use the brush tool, line tool, rectangle tool, oval tool, circle tool, and curve tool. This will give you a clear idea of what the final output looks like and how to utilize each tool effectively.
 
 # Author
-- [Kainat Umar]
-  + Developer of the Console Game Application
+- **Kainat Umar** - *Developer of this `Paint Application` in Python using Tkinter library.*
